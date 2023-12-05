@@ -168,3 +168,5 @@ pyrightconfig.json
 staticfiles
 .envs/*
 !.envs/.local/
+*.pyc
+authors_api/settings/__pycache__/base.cpython-311.pyc
